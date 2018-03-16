@@ -269,6 +269,7 @@ https://github.com/roadrunner2/macbook12-spi-driver/blob/touchbar-driver-hid-dri
 Missing is as of now just the advanced functionality with custom graphics Apple
 offers in macOS.
 
+Does not awake after resume from suspend https://github.com/roadrunner2/macbook12-spi-driver/issues/3
 
 ## Touch ID
 
